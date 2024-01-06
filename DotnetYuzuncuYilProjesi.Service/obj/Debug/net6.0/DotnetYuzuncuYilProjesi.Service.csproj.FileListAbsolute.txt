@@ -1,0 +1,17 @@
+C:\.netyuzuncuyil\Proje\DotnetYuzuncuYilProjesi\DotnetYuzuncuYilProjesi.Service\bin\Debug\net6.0\DotnetYuzuncuYilProjesi.Service.deps.json
+C:\.netyuzuncuyil\Proje\DotnetYuzuncuYilProjesi\DotnetYuzuncuYilProjesi.Service\bin\Debug\net6.0\DotnetYuzuncuYilProjesi.Service.dll
+C:\.netyuzuncuyil\Proje\DotnetYuzuncuYilProjesi\DotnetYuzuncuYilProjesi.Service\bin\Debug\net6.0\DotnetYuzuncuYilProjesi.Service.pdb
+C:\.netyuzuncuyil\Proje\DotnetYuzuncuYilProjesi\DotnetYuzuncuYilProjesi.Service\bin\Debug\net6.0\DotnetYuzuncuYilProjesi.Core.dll
+C:\.netyuzuncuyil\Proje\DotnetYuzuncuYilProjesi\DotnetYuzuncuYilProjesi.Service\bin\Debug\net6.0\DotnetYuzuncuYilProjesi.Repository.dll
+C:\.netyuzuncuyil\Proje\DotnetYuzuncuYilProjesi\DotnetYuzuncuYilProjesi.Service\bin\Debug\net6.0\DotnetYuzuncuYilProjesi.Repository.pdb
+C:\.netyuzuncuyil\Proje\DotnetYuzuncuYilProjesi\DotnetYuzuncuYilProjesi.Service\bin\Debug\net6.0\DotnetYuzuncuYilProjesi.Core.pdb
+C:\.netyuzuncuyil\Proje\DotnetYuzuncuYilProjesi\DotnetYuzuncuYilProjesi.Service\obj\Debug\net6.0\DotnetYuzuncuYilProjesi.Service.csproj.AssemblyReference.cache
+C:\.netyuzuncuyil\Proje\DotnetYuzuncuYilProjesi\DotnetYuzuncuYilProjesi.Service\obj\Debug\net6.0\DotnetYuzuncuYilProjesi.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\.netyuzuncuyil\Proje\DotnetYuzuncuYilProjesi\DotnetYuzuncuYilProjesi.Service\obj\Debug\net6.0\DotnetYuzuncuYilProjesi.Service.AssemblyInfoInputs.cache
+C:\.netyuzuncuyil\Proje\DotnetYuzuncuYilProjesi\DotnetYuzuncuYilProjesi.Service\obj\Debug\net6.0\DotnetYuzuncuYilProjesi.Service.AssemblyInfo.cs
+C:\.netyuzuncuyil\Proje\DotnetYuzuncuYilProjesi\DotnetYuzuncuYilProjesi.Service\obj\Debug\net6.0\DotnetYuzuncuYilProjesi.Service.csproj.CoreCompileInputs.cache
+C:\.netyuzuncuyil\Proje\DotnetYuzuncuYilProjesi\DotnetYuzuncuYilProjesi.Service\obj\Debug\net6.0\DotnetYuzuncuYilProjesi.Service.csproj.CopyComplete
+C:\.netyuzuncuyil\Proje\DotnetYuzuncuYilProjesi\DotnetYuzuncuYilProjesi.Service\obj\Debug\net6.0\DotnetYuzuncuYilProjesi.Service.dll
+C:\.netyuzuncuyil\Proje\DotnetYuzuncuYilProjesi\DotnetYuzuncuYilProjesi.Service\obj\Debug\net6.0\refint\DotnetYuzuncuYilProjesi.Service.dll
+C:\.netyuzuncuyil\Proje\DotnetYuzuncuYilProjesi\DotnetYuzuncuYilProjesi.Service\obj\Debug\net6.0\DotnetYuzuncuYilProjesi.Service.pdb
+C:\.netyuzuncuyil\Proje\DotnetYuzuncuYilProjesi\DotnetYuzuncuYilProjesi.Service\obj\Debug\net6.0\ref\DotnetYuzuncuYilProjesi.Service.dll

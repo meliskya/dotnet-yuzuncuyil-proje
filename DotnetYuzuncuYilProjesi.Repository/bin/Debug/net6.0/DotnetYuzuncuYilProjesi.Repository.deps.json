@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DotnetYuzuncuYilProjesi.Repository/1.0.0": {
+        "dependencies": {
+          "DotnetYuzuncuYilProjesi.Core": "1.0.0"
+        },
+        "runtime": {
+          "DotnetYuzuncuYilProjesi.Repository.dll": {}
+        }
+      },
+      "DotnetYuzuncuYilProjesi.Core/1.0.0": {
+        "runtime": {
+          "DotnetYuzuncuYilProjesi.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DotnetYuzuncuYilProjesi.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DotnetYuzuncuYilProjesi.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

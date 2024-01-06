@@ -25,3 +25,9 @@ C:\.netyuzuncuyil\Proje\DotnetYuzuncuYilProjesi\DotnetYuzuncuYilProjesi.API\obj\
 C:\.netyuzuncuyil\Proje\DotnetYuzuncuYilProjesi\DotnetYuzuncuYilProjesi.API\obj\Debug\net6.0\DotnetYuzuncuYilProjesi.API.pdb
 C:\.netyuzuncuyil\Proje\DotnetYuzuncuYilProjesi\DotnetYuzuncuYilProjesi.API\obj\Debug\net6.0\DotnetYuzuncuYilProjesi.API.genruntimeconfig.cache
 C:\.netyuzuncuyil\Proje\DotnetYuzuncuYilProjesi\DotnetYuzuncuYilProjesi.API\obj\Debug\net6.0\ref\DotnetYuzuncuYilProjesi.API.dll
+C:\.netyuzuncuyil\Proje\DotnetYuzuncuYilProjesi\DotnetYuzuncuYilProjesi.API\bin\Debug\net6.0\DotnetYuzuncuYilProjesi.Core.dll
+C:\.netyuzuncuyil\Proje\DotnetYuzuncuYilProjesi\DotnetYuzuncuYilProjesi.API\bin\Debug\net6.0\DotnetYuzuncuYilProjesi.Repository.dll
+C:\.netyuzuncuyil\Proje\DotnetYuzuncuYilProjesi\DotnetYuzuncuYilProjesi.API\bin\Debug\net6.0\DotnetYuzuncuYilProjesi.Service.dll
+C:\.netyuzuncuyil\Proje\DotnetYuzuncuYilProjesi\DotnetYuzuncuYilProjesi.API\bin\Debug\net6.0\DotnetYuzuncuYilProjesi.Service.pdb
+C:\.netyuzuncuyil\Proje\DotnetYuzuncuYilProjesi\DotnetYuzuncuYilProjesi.API\bin\Debug\net6.0\DotnetYuzuncuYilProjesi.Core.pdb
+C:\.netyuzuncuyil\Proje\DotnetYuzuncuYilProjesi\DotnetYuzuncuYilProjesi.API\bin\Debug\net6.0\DotnetYuzuncuYilProjesi.Repository.pdb

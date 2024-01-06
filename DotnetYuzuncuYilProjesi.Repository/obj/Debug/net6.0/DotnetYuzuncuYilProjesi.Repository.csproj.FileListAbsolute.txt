@@ -1,0 +1,15 @@
+C:\.netyuzuncuyil\Proje\DotnetYuzuncuYilProjesi\DotnetYuzuncuYilProjesi.Repository\bin\Debug\net6.0\DotnetYuzuncuYilProjesi.Repository.deps.json
+C:\.netyuzuncuyil\Proje\DotnetYuzuncuYilProjesi\DotnetYuzuncuYilProjesi.Repository\bin\Debug\net6.0\DotnetYuzuncuYilProjesi.Repository.dll
+C:\.netyuzuncuyil\Proje\DotnetYuzuncuYilProjesi\DotnetYuzuncuYilProjesi.Repository\bin\Debug\net6.0\DotnetYuzuncuYilProjesi.Repository.pdb
+C:\.netyuzuncuyil\Proje\DotnetYuzuncuYilProjesi\DotnetYuzuncuYilProjesi.Repository\bin\Debug\net6.0\DotnetYuzuncuYilProjesi.Core.dll
+C:\.netyuzuncuyil\Proje\DotnetYuzuncuYilProjesi\DotnetYuzuncuYilProjesi.Repository\bin\Debug\net6.0\DotnetYuzuncuYilProjesi.Core.pdb
+C:\.netyuzuncuyil\Proje\DotnetYuzuncuYilProjesi\DotnetYuzuncuYilProjesi.Repository\obj\Debug\net6.0\DotnetYuzuncuYilProjesi.Repository.csproj.AssemblyReference.cache
+C:\.netyuzuncuyil\Proje\DotnetYuzuncuYilProjesi\DotnetYuzuncuYilProjesi.Repository\obj\Debug\net6.0\DotnetYuzuncuYilProjesi.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\.netyuzuncuyil\Proje\DotnetYuzuncuYilProjesi\DotnetYuzuncuYilProjesi.Repository\obj\Debug\net6.0\DotnetYuzuncuYilProjesi.Repository.AssemblyInfoInputs.cache
+C:\.netyuzuncuyil\Proje\DotnetYuzuncuYilProjesi\DotnetYuzuncuYilProjesi.Repository\obj\Debug\net6.0\DotnetYuzuncuYilProjesi.Repository.AssemblyInfo.cs
+C:\.netyuzuncuyil\Proje\DotnetYuzuncuYilProjesi\DotnetYuzuncuYilProjesi.Repository\obj\Debug\net6.0\DotnetYuzuncuYilProjesi.Repository.csproj.CoreCompileInputs.cache
+C:\.netyuzuncuyil\Proje\DotnetYuzuncuYilProjesi\DotnetYuzuncuYilProjesi.Repository\obj\Debug\net6.0\DotnetYuzuncuYilProjesi.Repository.csproj.CopyComplete
+C:\.netyuzuncuyil\Proje\DotnetYuzuncuYilProjesi\DotnetYuzuncuYilProjesi.Repository\obj\Debug\net6.0\DotnetYuzuncuYilProjesi.Repository.dll
+C:\.netyuzuncuyil\Proje\DotnetYuzuncuYilProjesi\DotnetYuzuncuYilProjesi.Repository\obj\Debug\net6.0\refint\DotnetYuzuncuYilProjesi.Repository.dll
+C:\.netyuzuncuyil\Proje\DotnetYuzuncuYilProjesi\DotnetYuzuncuYilProjesi.Repository\obj\Debug\net6.0\DotnetYuzuncuYilProjesi.Repository.pdb
+C:\.netyuzuncuyil\Proje\DotnetYuzuncuYilProjesi\DotnetYuzuncuYilProjesi.Repository\obj\Debug\net6.0\ref\DotnetYuzuncuYilProjesi.Repository.dll
