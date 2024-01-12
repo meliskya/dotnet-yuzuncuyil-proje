@@ -11,7 +11,7 @@ namespace DotnetYuzuncuYilProjesi.Core
     {
         public string SongName { get; set; }
         public string Singer { get; set; }
-        public int Duration { get; set; }
+        public string Duration { get; set; }
 
         //Foreign Key
         public int PlayListId { get; set; }

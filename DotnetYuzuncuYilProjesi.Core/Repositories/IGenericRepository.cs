@@ -11,7 +11,7 @@ namespace DotnetYuzuncuYilProjesi.Core.Repositories
     {
         Task<T> GetByIdAsync(int id);
         //Filtreleme yapmak için expression parametresi function delege olarak tanımlanır.
-        IQueryable<T> GetAll(Expression<Func<T,bool>> expression);
+        IQueryable<T> GetAll();
 
         IQueryable<T> Where(Expression<Func<T, bool>> expression);
         Task AddAsync(T entity);

@@ -12,8 +12,8 @@ namespace DotnetYuzuncuYilProjesi.Core.Services
         Task<T> GetById(int id);
         Task<IEnumerable<T>> GetAllAsync();
         IQueryable<T> Where(Expression<Func<T, bool>> expression);
-        Task AddAsync(T Entity);
-        Task AddRangeAsnyc(IEnumerable<T> entities);
+        Task<T> AddAsync(T Entity);
+        Task<IEnumerable<T>> AddRangeAsnyc(IEnumerable<T> entities);
         Task UpdateAsync(T Entity);
         Task Remove(T Entity);
         Task RemoveRangAsnyc(IEnumerable<T> entities);

@@ -8,7 +8,7 @@ namespace DotnetYuzuncuYilProjesi.Core
 {
     public class MusicDetail
     {
-        public string Id { get; set; }
+        public int Id { get; set; }
         public string Lyrics { get; set; }
         public int ReleaseYear { get; set; }
         public int NumberOfLikes { get; set; }
@@ -18,6 +18,6 @@ namespace DotnetYuzuncuYilProjesi.Core
 
         //Birebir İlişki
         public Song Song { get; set; }
-        public PlayList PlayList { get; set; }
+       // public PlayList PlayList { get; set; }
     }
 }

@@ -13,3 +13,5 @@ C:\.netyuzuncuyil\Proje\DotnetYuzuncuYilProjesi\DotnetYuzuncuYilProjesi.Reposito
 C:\.netyuzuncuyil\Proje\DotnetYuzuncuYilProjesi\DotnetYuzuncuYilProjesi.Repository\obj\Debug\net6.0\refint\DotnetYuzuncuYilProjesi.Repository.dll
 C:\.netyuzuncuyil\Proje\DotnetYuzuncuYilProjesi\DotnetYuzuncuYilProjesi.Repository\obj\Debug\net6.0\DotnetYuzuncuYilProjesi.Repository.pdb
 C:\.netyuzuncuyil\Proje\DotnetYuzuncuYilProjesi\DotnetYuzuncuYilProjesi.Repository\obj\Debug\net6.0\ref\DotnetYuzuncuYilProjesi.Repository.dll
+C:\.netyuzuncuyil\Proje\DotnetYuzuncuYilProjesi\DotnetYuzuncuYilProjesi.Repository\bin\Debug\net6.0\DotnetYuzuncuYilProjesi.Repository.runtimeconfig.json
+C:\.netyuzuncuyil\Proje\DotnetYuzuncuYilProjesi\DotnetYuzuncuYilProjesi.Repository\obj\Debug\net6.0\DotnetYuzuncuYilProjesi.Repository.genruntimeconfig.cache
