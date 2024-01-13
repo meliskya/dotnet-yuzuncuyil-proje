@@ -6,6 +6,7 @@ using DotnetYuzuncuYilProjesi.Repository.Repositories;
 using DotnetYuzuncuYilProjesi.Repository.UnitOfWorks;
 using DotnetYuzuncuYilProjesi.Service;
 using DotnetYuzuncuYilProjesi.Service.Mapping;
+using DotnetYuzuncuYilProjesi.Service.Services;
 using DotnetYuzuncuYilProjesi.Service.Validations;
 using FluentValidation.AspNetCore;
 using Microsoft.EntityFrameworkCore;
@@ -23,6 +24,7 @@ builder.Services.AddScoped<IUnitOfWork,UnitOfWork>();
 builder.Services.AddScoped(typeof(IGenericRepository<>),typeof(GenericRepository<>));
 builder.Services.AddScoped(typeof(IService<>), typeof(Service<>));
 builder.Services.AddAutoMapper(typeof(MapProfile));
+builder.Services.AddScoped<IPlayListService, PlayListService>();
 builder.Services.AddControllers().AddFluentValidation(x =>
       {
           x.RegisterValidatorsFromAssemblyContaining<PlayListDtoValidator>();

@@ -16,6 +16,8 @@ namespace DotnetYuzuncuYilProjesi.Service.Mapping
             CreateMap<PlayList, PlayListDto>().ReverseMap();
             CreateMap<Song, SongDto>().ReverseMap();
             CreateMap<MusicDetail, MusicDetailDto>().ReverseMap();
+
+            CreateMap<PlayListDto, PlayList>();
         }
     }
 }

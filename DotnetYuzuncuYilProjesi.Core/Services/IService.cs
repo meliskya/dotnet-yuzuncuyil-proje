@@ -15,7 +15,7 @@ namespace DotnetYuzuncuYilProjesi.Core.Services
         Task<T> AddAsync(T Entity);
         Task<IEnumerable<T>> AddRangeAsnyc(IEnumerable<T> entities);
         Task UpdateAsync(T Entity);
-        Task Remove(T Entity);
+        Task RemoveAsync(T Entity);
         Task RemoveRangAsnyc(IEnumerable<T> entities);
 
     }

@@ -45,7 +45,7 @@ namespace DotnetYuzuncuYilProjesi.Service
             return await _repository.GetByIdAsync(id);
         }
 
-        public async Task Remove(T Entity)
+        public async Task RemoveAsync(T Entity)
         {
             _repository.Remove(Entity);
             await _unitOfWork.CommitAync();
