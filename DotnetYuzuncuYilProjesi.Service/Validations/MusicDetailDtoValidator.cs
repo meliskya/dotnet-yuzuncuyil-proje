@@ -12,11 +12,11 @@ namespace DotnetYuzuncuYilProjesi.Service.Validations
     {
         public MusicDetailDtoValidator()
         {
-            RuleFor(x => x.Lyrics).NotEmpty().WithMessage("Lütfen şarkının sözlerini giriniz.")
-             .NotNull().WithMessage("Şarkı sözleri null geçilemez!");
+            RuleFor(x => x.Lyrics).NotEmpty().WithMessage("Şarkı sözleri boş geçilemez!")
+             .NotNull().WithMessage("Şarkı sözleri null olamaz!");
 
-            RuleFor(x => x.ReleaseYear).NotEmpty().WithMessage("Lütfen şarkının çıkış yılını belirtiniz.")
-                    .NotNull().WithMessage("Şarkı çıkış yılı boş geçilemez");
+            RuleFor(x => x.ReleaseYear).NotEmpty().WithMessage("Şarkı sözleri boş geçilemez!")
+                    .NotNull().WithMessage("Şarkı çıkış yılı null olamaz!");
                    
         }
      

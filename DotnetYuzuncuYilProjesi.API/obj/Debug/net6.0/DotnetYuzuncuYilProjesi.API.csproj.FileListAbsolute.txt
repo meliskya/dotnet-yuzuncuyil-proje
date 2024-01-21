@@ -69,3 +69,4 @@ C:\.netyuzuncuyil\Proje\DotnetYuzuncuYilProjesi\DotnetYuzuncuYilProjesi.API\bin\
 C:\.netyuzuncuyil\Proje\DotnetYuzuncuYilProjesi\DotnetYuzuncuYilProjesi.API\bin\Debug\net6.0\FluentValidation.dll
 C:\.netyuzuncuyil\Proje\DotnetYuzuncuYilProjesi\DotnetYuzuncuYilProjesi.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
 C:\.netyuzuncuyil\Proje\DotnetYuzuncuYilProjesi\DotnetYuzuncuYilProjesi.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\.netyuzuncuyil\Proje\DotnetYuzuncuYilProjesi\DotnetYuzuncuYilProjesi.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll

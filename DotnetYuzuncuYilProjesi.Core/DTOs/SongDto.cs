@@ -11,5 +11,6 @@ namespace DotnetYuzuncuYilProjesi.Core.DTOs
         public string SongName { get; set; }
         public string Singer { get; set; }
         public string Duration { get; set; }
+        public int PlayListId { get; set; }
     }
 }

@@ -1,3 +1,4 @@
+using DotnetYuzuncuYilProjesi.API.ExceptionHandler;
 using DotnetYuzuncuYilProjesi.Core.Repositories;
 using DotnetYuzuncuYilProjesi.Core.Services;
 using DotnetYuzuncuYilProjesi.Core.UnitOfWorks;
@@ -25,6 +26,8 @@ builder.Services.AddScoped(typeof(IGenericRepository<>),typeof(GenericRepository
 builder.Services.AddScoped(typeof(IService<>), typeof(Service<>));
 builder.Services.AddAutoMapper(typeof(MapProfile));
 builder.Services.AddScoped<IPlayListService, PlayListService>();
+builder.Services.AddScoped<ISongService, SongService>();
+builder.Services.AddScoped<IMusicDetailService, MusicDetailService>();
 builder.Services.AddControllers().AddFluentValidation(x =>
       {
           x.RegisterValidatorsFromAssemblyContaining<PlayListDtoValidator>();
@@ -54,6 +57,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+app.UseCustomException();
 
 app.UseAuthorization();
 

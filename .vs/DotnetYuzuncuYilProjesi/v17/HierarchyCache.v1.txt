@@ -1,0 +1,250 @@
+﻿++Solution 'DotnetYuzuncuYilProjesi' ‎(4 of 4 projects)
+i:{00000000-0000-0000-0000-000000000000}:DotnetYuzuncuYilProjesi.sln
+++DotnetYuzuncuYilProjesi.Core
+i:{00000000-0000-0000-0000-000000000000}:DotnetYuzuncuYilProjesi.Core
+i:{42f5c066-77ea-4894-b491-0cfd78d971aa}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.core\bin\debug\net6.0\dotnetyuzuncuyilprojesi.core.dll
+++Dependencies
+i:{424252b6-a522-4e25-bce4-15d5b1b9324d}:>449
+i:{d3b6cda6-774c-458d-8126-dd0a7f2cc647}:>448
+i:{130353ba-a1d7-450b-970c-9b136f9ecd72}:>573
+i:{42f5c066-77ea-4894-b491-0cfd78d971aa}:>450
+++DTOs
+i:{424252b6-a522-4e25-bce4-15d5b1b9324d}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.core\dtos\
+++BaseDto.cs
+i:{424252b6-a522-4e25-bce4-15d5b1b9324d}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.core\dtos\basedto.cs
+++CustomResponseDto.cs
+i:{424252b6-a522-4e25-bce4-15d5b1b9324d}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.core\dtos\customresponsedto.cs
+++MusicDetailDto.cs
+i:{424252b6-a522-4e25-bce4-15d5b1b9324d}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.core\dtos\musicdetaildto.cs
+++NoContentDto.cs
+i:{424252b6-a522-4e25-bce4-15d5b1b9324d}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.core\dtos\nocontentdto.cs
+++PlayListDto.cs
+i:{424252b6-a522-4e25-bce4-15d5b1b9324d}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.core\dtos\playlistdto.cs
+++SongDto.cs
+i:{424252b6-a522-4e25-bce4-15d5b1b9324d}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.core\dtos\songdto.cs
+++Models
+i:{424252b6-a522-4e25-bce4-15d5b1b9324d}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.core\models\
+++BaseEntity.cs
+i:{424252b6-a522-4e25-bce4-15d5b1b9324d}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.core\models\baseentity.cs
+++MusicDetail.cs
+i:{424252b6-a522-4e25-bce4-15d5b1b9324d}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.core\models\musicdetail.cs
+++PlayList.cs
+i:{424252b6-a522-4e25-bce4-15d5b1b9324d}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.core\models\playlist.cs
+++Song.cs
+i:{424252b6-a522-4e25-bce4-15d5b1b9324d}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.core\models\song.cs
+++Repositories
+i:{424252b6-a522-4e25-bce4-15d5b1b9324d}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.core\repositories\
+i:{42f5c066-77ea-4894-b491-0cfd78d971aa}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.repository\repositories\
+++IGenericRepository.cs
+i:{424252b6-a522-4e25-bce4-15d5b1b9324d}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.core\repositories\igenericrepository.cs
+++IMusicDetailRepository.cs
+i:{424252b6-a522-4e25-bce4-15d5b1b9324d}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.core\repositories\imusicdetailrepository.cs
+++IPlayListRepository.cs
+i:{424252b6-a522-4e25-bce4-15d5b1b9324d}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.core\repositories\iplaylistrepository.cs
+++ISongRepository.cs
+i:{424252b6-a522-4e25-bce4-15d5b1b9324d}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.core\repositories\isongrepository.cs
+++Services
+i:{424252b6-a522-4e25-bce4-15d5b1b9324d}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.core\services\
+i:{d3b6cda6-774c-458d-8126-dd0a7f2cc647}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.service\services\
+++IMusicDetailService.cs
+i:{424252b6-a522-4e25-bce4-15d5b1b9324d}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.core\services\imusicdetailservice.cs
+++IPlayListService.cs
+i:{424252b6-a522-4e25-bce4-15d5b1b9324d}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.core\services\iplaylistservice.cs
+++IService.cs
+i:{424252b6-a522-4e25-bce4-15d5b1b9324d}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.core\services\iservice.cs
+++ISongService.cs
+i:{424252b6-a522-4e25-bce4-15d5b1b9324d}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.core\services\isongservice.cs
+++UnitOfWorks
+i:{424252b6-a522-4e25-bce4-15d5b1b9324d}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.core\unitofworks\
+i:{42f5c066-77ea-4894-b491-0cfd78d971aa}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.repository\unitofworks\
+++IUnitOfWork.cs
+i:{424252b6-a522-4e25-bce4-15d5b1b9324d}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.core\unitofworks\iunitofwork.cs
+++Analyzers
+i:{424252b6-a522-4e25-bce4-15d5b1b9324d}:analyzers
+i:{d3b6cda6-774c-458d-8126-dd0a7f2cc647}:analyzers
+i:{130353ba-a1d7-450b-970c-9b136f9ecd72}:analyzers
+i:{42f5c066-77ea-4894-b491-0cfd78d971aa}:analyzers
+++Frameworks
+i:{424252b6-a522-4e25-bce4-15d5b1b9324d}:frameworks
+i:{d3b6cda6-774c-458d-8126-dd0a7f2cc647}:frameworks
+i:{130353ba-a1d7-450b-970c-9b136f9ecd72}:frameworks
+i:{42f5c066-77ea-4894-b491-0cfd78d971aa}:frameworks
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{424252b6-a522-4e25-bce4-15d5b1b9324d}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{d3b6cda6-774c-458d-8126-dd0a7f2cc647}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{130353ba-a1d7-450b-970c-9b136f9ecd72}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{42f5c066-77ea-4894-b491-0cfd78d971aa}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{424252b6-a522-4e25-bce4-15d5b1b9324d}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{d3b6cda6-774c-458d-8126-dd0a7f2cc647}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{130353ba-a1d7-450b-970c-9b136f9ecd72}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{42f5c066-77ea-4894-b491-0cfd78d971aa}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++System.Text.Json.SourceGeneration
+i:{424252b6-a522-4e25-bce4-15d5b1b9324d}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{d3b6cda6-774c-458d-8126-dd0a7f2cc647}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{130353ba-a1d7-450b-970c-9b136f9ecd72}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{42f5c066-77ea-4894-b491-0cfd78d971aa}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{424252b6-a522-4e25-bce4-15d5b1b9324d}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.core\microsoft.netcore.app
+i:{d3b6cda6-774c-458d-8126-dd0a7f2cc647}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.service\microsoft.netcore.app
+i:{130353ba-a1d7-450b-970c-9b136f9ecd72}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.api\microsoft.netcore.app
+i:{42f5c066-77ea-4894-b491-0cfd78d971aa}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.repository\microsoft.netcore.app
+++DotnetYuzuncuYilProjesi.Service
+i:{00000000-0000-0000-0000-000000000000}:DotnetYuzuncuYilProjesi.Service
+i:{130353ba-a1d7-450b-970c-9b136f9ecd72}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.service\dotnetyuzuncuyilprojesi.service.csproj
+++Mapping
+i:{d3b6cda6-774c-458d-8126-dd0a7f2cc647}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.service\mapping\
+++MapProfile.cs
+i:{d3b6cda6-774c-458d-8126-dd0a7f2cc647}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.service\mapping\mapprofile.cs
+++MusicDetailService.cs
+i:{d3b6cda6-774c-458d-8126-dd0a7f2cc647}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.service\services\musicdetailservice.cs
+++PlayListService.cs
+i:{d3b6cda6-774c-458d-8126-dd0a7f2cc647}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.service\services\playlistservice.cs
+++SongService.cs
+i:{d3b6cda6-774c-458d-8126-dd0a7f2cc647}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.service\services\songservice.cs
+++Validations
+i:{d3b6cda6-774c-458d-8126-dd0a7f2cc647}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.service\validations\
+++MusicDetailDtoValidator.cs
+i:{d3b6cda6-774c-458d-8126-dd0a7f2cc647}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.service\validations\musicdetaildtovalidator.cs
+++PlayListDtoValidator.cs
+i:{d3b6cda6-774c-458d-8126-dd0a7f2cc647}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.service\validations\playlistdtovalidator.cs
+++SongDtoValidator.cs
+i:{d3b6cda6-774c-458d-8126-dd0a7f2cc647}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.service\validations\songdtovalidator.cs
+++Service.cs
+i:{d3b6cda6-774c-458d-8126-dd0a7f2cc647}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.service\services\service.cs
+++Packages
+i:{d3b6cda6-774c-458d-8126-dd0a7f2cc647}:packages
+i:{130353ba-a1d7-450b-970c-9b136f9ecd72}:packages
+i:{42f5c066-77ea-4894-b491-0cfd78d971aa}:packages
+++Projects
+i:{d3b6cda6-774c-458d-8126-dd0a7f2cc647}:projects
+i:{130353ba-a1d7-450b-970c-9b136f9ecd72}:projects
+i:{42f5c066-77ea-4894-b491-0cfd78d971aa}:projects
+++Microsoft.AspNetCore.App.Analyzers
+i:{d3b6cda6-774c-458d-8126-dd0a7f2cc647}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{130353ba-a1d7-450b-970c-9b136f9ecd72}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{d3b6cda6-774c-458d-8126-dd0a7f2cc647}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{130353ba-a1d7-450b-970c-9b136f9ecd72}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{d3b6cda6-774c-458d-8126-dd0a7f2cc647}:c:\users\lenovo\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.1\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{130353ba-a1d7-450b-970c-9b136f9ecd72}:c:\users\lenovo\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.1\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{42f5c066-77ea-4894-b491-0cfd78d971aa}:c:\users\lenovo\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.1\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{d3b6cda6-774c-458d-8126-dd0a7f2cc647}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{130353ba-a1d7-450b-970c-9b136f9ecd72}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{42f5c066-77ea-4894-b491-0cfd78d971aa}:c:\users\lenovo\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++AutoMapper.Extensions.Microsoft.DependencyInjection (12.0.1)
+i:{d3b6cda6-774c-458d-8126-dd0a7f2cc647}:>605
+++FluentValidation.AspNetCore (11.3.0)
+i:{d3b6cda6-774c-458d-8126-dd0a7f2cc647}:>606
+++DotnetYuzuncuYilProjesi.Repository
+i:{d3b6cda6-774c-458d-8126-dd0a7f2cc647}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.repository\bin\debug\net6.0\dotnetyuzuncuyilprojesi.repository.dll
+i:{00000000-0000-0000-0000-000000000000}:DotnetYuzuncuYilProjesi.Repository
+++DotnetYuzuncuYilProjesi.API
+i:{00000000-0000-0000-0000-000000000000}:DotnetYuzuncuYilProjesi.API
+++Connected Services 
+i:{130353ba-a1d7-450b-970c-9b136f9ecd72}:>574
+++Properties
+i:{130353ba-a1d7-450b-970c-9b136f9ecd72}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.api\properties\
+++Controllers
+i:{130353ba-a1d7-450b-970c-9b136f9ecd72}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.api\controllers\
+++CustomBaseController.cs
+i:{130353ba-a1d7-450b-970c-9b136f9ecd72}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.api\controllers\custombasecontroller.cs
+++PlayListController.cs
+i:{130353ba-a1d7-450b-970c-9b136f9ecd72}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.api\controllers\playlistcontroller.cs
+++appsettings.json
+i:{130353ba-a1d7-450b-970c-9b136f9ecd72}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.api\appsettings.json
+++Program.cs
+i:{130353ba-a1d7-450b-970c-9b136f9ecd72}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.api\program.cs
+++WeatherForecast.cs
+i:{130353ba-a1d7-450b-970c-9b136f9ecd72}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.api\weatherforecast.cs
+++No service dependencies discovered
+++launchSettings.json
+i:{130353ba-a1d7-450b-970c-9b136f9ecd72}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.api\properties\launchsettings.json
+++appsettings.Development.json
+i:{130353ba-a1d7-450b-970c-9b136f9ecd72}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.api\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{130353ba-a1d7-450b-970c-9b136f9ecd72}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{130353ba-a1d7-450b-970c-9b136f9ecd72}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{130353ba-a1d7-450b-970c-9b136f9ecd72}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{130353ba-a1d7-450b-970c-9b136f9ecd72}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{130353ba-a1d7-450b-970c-9b136f9ecd72}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++Microsoft.AspNetCore.App
+i:{130353ba-a1d7-450b-970c-9b136f9ecd72}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.api\microsoft.aspnetcore.app
+++Microsoft.EntityFrameworkCore (6.0.1)
+i:{130353ba-a1d7-450b-970c-9b136f9ecd72}:>622
+i:{42f5c066-77ea-4894-b491-0cfd78d971aa}:>601
+++Microsoft.EntityFrameworkCore.Design (6.0.1)
+i:{130353ba-a1d7-450b-970c-9b136f9ecd72}:>623
+i:{42f5c066-77ea-4894-b491-0cfd78d971aa}:>603
+++Microsoft.EntityFrameworkCore.Tools (6.0.1)
+i:{130353ba-a1d7-450b-970c-9b136f9ecd72}:>625
+i:{42f5c066-77ea-4894-b491-0cfd78d971aa}:>607
+++Swashbuckle.AspNetCore (6.2.3)
+i:{130353ba-a1d7-450b-970c-9b136f9ecd72}:>624
+++Configurations
+i:{42f5c066-77ea-4894-b491-0cfd78d971aa}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.repository\configurations\
+++Migrations
+i:{42f5c066-77ea-4894-b491-0cfd78d971aa}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.repository\migrations\
+++Seeds
+i:{42f5c066-77ea-4894-b491-0cfd78d971aa}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.repository\seeds\
+++AppDbContext.cs
+i:{42f5c066-77ea-4894-b491-0cfd78d971aa}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.repository\appdbcontext.cs
+++MusicDetailConfiguration.cs
+i:{42f5c066-77ea-4894-b491-0cfd78d971aa}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.repository\configurations\musicdetailconfiguration.cs
+++PlayListConfiguration.cs
+i:{42f5c066-77ea-4894-b491-0cfd78d971aa}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.repository\configurations\playlistconfiguration.cs
+++SongConfiguration.cs
+i:{42f5c066-77ea-4894-b491-0cfd78d971aa}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.repository\configurations\songconfiguration.cs
+++20240111225053_initial.cs
+i:{42f5c066-77ea-4894-b491-0cfd78d971aa}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.repository\migrations\20240111225053_initial.cs
+++20240111232635_MyMigration.cs
+i:{42f5c066-77ea-4894-b491-0cfd78d971aa}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.repository\migrations\20240111232635_mymigration.cs
+++AppDbContextModelSnapshot.cs
+i:{42f5c066-77ea-4894-b491-0cfd78d971aa}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.repository\migrations\appdbcontextmodelsnapshot.cs
+++GenericRepository.cs
+i:{42f5c066-77ea-4894-b491-0cfd78d971aa}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.repository\repositories\genericrepository.cs
+++MusicDetailSeed.cs
+i:{42f5c066-77ea-4894-b491-0cfd78d971aa}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.repository\seeds\musicdetailseed.cs
+++PlayListSeed.cs
+i:{42f5c066-77ea-4894-b491-0cfd78d971aa}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.repository\seeds\playlistseed.cs
+++SongSeed.cs
+i:{42f5c066-77ea-4894-b491-0cfd78d971aa}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.repository\seeds\songseed.cs
+++UnitOfWork.cs
+i:{42f5c066-77ea-4894-b491-0cfd78d971aa}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.repository\unitofworks\unitofwork.cs
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.1)
+i:{42f5c066-77ea-4894-b491-0cfd78d971aa}:>602
+++20240111225053_initial.Designer.cs
+i:{42f5c066-77ea-4894-b491-0cfd78d971aa}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.repository\migrations\20240111225053_initial.designer.cs
+++20240111232635_MyMigration.Designer.cs
+i:{42f5c066-77ea-4894-b491-0cfd78d971aa}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.repository\migrations\20240111232635_mymigration.designer.cs
+++SongController.cs
+i:{130353ba-a1d7-450b-970c-9b136f9ecd72}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.api\controllers\songcontroller.cs
+++MusicDetailController.cs
+i:{130353ba-a1d7-450b-970c-9b136f9ecd72}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.api\controllers\musicdetailcontroller.cs
+++System.IdentityModel.Tokens.Jwt (7.2.0)
+i:{130353ba-a1d7-450b-970c-9b136f9ecd72}:>644
+++NewFolder
+++Concrete
+i:{130353ba-a1d7-450b-970c-9b136f9ecd72}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.api\concrete\
+++Abstraction
+i:{130353ba-a1d7-450b-970c-9b136f9ecd72}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.api\abstraction\
+++IJwtAuthenticationManager.cs
+i:{130353ba-a1d7-450b-970c-9b136f9ecd72}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.api\abstraction\ijwtauthenticationmanager.cs
+++AuthResponseDto.cs
+i:{424252b6-a522-4e25-bce4-15d5b1b9324d}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.core\dtos\authresponsedto.cs
+++JwtAuthenticationManager.cs
+i:{130353ba-a1d7-450b-970c-9b136f9ecd72}:c:\.netyuzuncuyil\proje\dotnetyuzuncuyilprojesi\dotnetyuzuncuyilprojesi.api\concrete\jwtauthenticationmanager.cs
+++Microsoft identity platform
+i:{130353ba-a1d7-450b-970c-9b136f9ecd72}:>661
+++For applications that authenticate users with the Microsoft identity platform (Azure AD, Azure AD B2C and personal Microsoft accounts).
+i:{130353ba-a1d7-450b-970c-9b136f9ecd72}:>662
+++SQL Server Database (ConnectionStrings:SqlConnection)
+i:{130353ba-a1d7-450b-970c-9b136f9ecd72}:>659
+++SQL Server Database dependency with connectionId 'ConnectionStrings:SqlConnection' is detected
+i:{130353ba-a1d7-450b-970c-9b136f9ecd72}:>660

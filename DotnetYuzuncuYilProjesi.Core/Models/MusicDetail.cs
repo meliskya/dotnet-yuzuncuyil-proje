@@ -18,6 +18,6 @@ namespace DotnetYuzuncuYilProjesi.Core
 
         //Birebir İlişki
         public Song Song { get; set; }
-       // public PlayList PlayList { get; set; }
+        //public PlayList PlayList { get; set; }
     }
 }

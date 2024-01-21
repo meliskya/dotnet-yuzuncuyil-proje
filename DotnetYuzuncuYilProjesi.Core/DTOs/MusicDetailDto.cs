@@ -6,11 +6,12 @@ using System.Threading.Tasks;
 
 namespace DotnetYuzuncuYilProjesi.Core.DTOs
 {
-    public class MusicDetailDto:BaseDto
+    public class MusicDetailDto
     {
-        //public int Id { get; set; }
+        public int Id { get; set; }
         public string Lyrics { get; set; }
         public int ReleaseYear { get; set; }
         public int NumberOfLikes { get; set; }
+        public int SongId { get; set; }
     }
 }

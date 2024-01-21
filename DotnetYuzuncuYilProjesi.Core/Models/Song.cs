@@ -13,6 +13,7 @@ namespace DotnetYuzuncuYilProjesi.Core
         public string Singer { get; set; }
         public string Duration { get; set; }
 
+
         //Foreign Key
         public int PlayListId { get; set; }
         public PlayList PlayList { get; set; }
